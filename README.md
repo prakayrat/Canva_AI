@@ -6,7 +6,8 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
 
 
 ----------
-------------
+----------
+[**What's New - Canva**](https://www.canva.com/whats-new)   
 --------------
 
 ## Design Assets
@@ -38,5 +39,5 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
 ![1](https://github.com/user-attachments/assets/954c5ca3-ebf0-4bc4-8cf6-bc76fa19c6df)
 
 -----------
-[**What's New - Canva**](https://www.canva.com/whats-new)
+
   
