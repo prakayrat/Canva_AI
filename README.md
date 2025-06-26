@@ -8,6 +8,19 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
 ----------
 ------------
 --------------
+
+## Design Assets
+
+- **Logo:**
+  - `designs/logos/logo-light.svg`
+  - `designs/logos/logo-dark.svg`
+  - [**Edit on Canva**](https://www.canva.com/design/DAE.../edit)  <-- ลิงก์ไปยังไฟล์ต้นฉบับ
+
+- **Homepage Banner:**
+  - `designs/banners/homepage-banner-v1.2.png`
+  - [**Edit on Canva**](https://www.canva.com/design/DAF.../edit)  <-- ลิงก์ไปยังไฟล์ต้นฉบับ
+ 
+----------------    
     
     
 บทที่ 4 หัวข้อ "ภาพโปรไฟล์ของคุณ" (หน้าที่ 76)      
