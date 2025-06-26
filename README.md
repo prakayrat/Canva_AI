@@ -11,22 +11,15 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
 
 ## Design Assets
 
-- **Logo:**
-  - `designs/logos/logo-light.svg`
-  - `designs/logos/logo-dark.svg`
-  - [**Edit on Canva**](https://www.canva.com/design/DAE.../edit)  <-- ลิงก์ไปยังไฟล์ต้นฉบับ
-
-- **Homepage Banner:**
-  - `designs/banners/homepage-banner-v1.2.png`
-  - [**Edit on Canva**](https://www.canva.com/design/DAF.../edit)  <-- ลิงก์ไปยังไฟล์ต้นฉบับ
  
 ----------------    
     
     
 บทที่ 4 หัวข้อ "ภาพโปรไฟล์ของคุณ" (หน้าที่ 76)      
-ทดลองทำ: 
+- **your profile:**
 ![1](https://github.com/user-attachments/assets/c13ddf29-190e-4405-a2aa-ac7862aeb73f)
-      
+
+      [**Edit on Canva**](https://www.canva.com/)
 -----------
 
 บทที่ 4 หัวข้อ "แนวคิด Steal Like an Artist" (หน้าที่ 85)     
