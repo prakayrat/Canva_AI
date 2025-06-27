@@ -10,7 +10,8 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
 ## ติดตาม พัฒนาการใหม่ ๆ ที่เพิ่งเกิดขึ้น ใน Canva (26-27 มิถุนายน 2568) ##
 [** คลิกที่นี่! Tech ใหม่ ๆ **](https://www.canva.com/whats-new)   
 
-** Say “Hi” to Canva AI **   
+** เครื่องมือ AI ใน Canva (Canva AI) **   
+![CanvaAI-icon](https://github.com/user-attachments/assets/2b8990ba-19c7-4dd3-bcc4-0a760722db2a)
 [คลิกเพื่อดูวิดีโอ](https://www.canva.com/ai-assistant/)    
 
 ![Animation](https://github.com/user-attachments/assets/665bfb20-5173-4b30-b532-073769f034d5)    
