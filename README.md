@@ -39,7 +39,6 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
 -----------
 
 บทที่ 4 หัวข้อ "แนวคิด Steal Like an Artist" (หน้าที่ 85)     
-ทดลองทำ:
 ![6](https://github.com/user-attachments/assets/5813d453-a6ba-4ec1-80a1-9782992ff79b)
 ![5](https://github.com/user-attachments/assets/133eace6-1115-424b-af56-7a2517b0e4b2)
 
@@ -52,7 +51,6 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
 -----------
 
 บทที่ 5 หัวข้อ "วางแผนและออกแบบโพสต์ที่โดดเด่น" (หน้าที่ 104)    
-ทดลองทำ:  
 ![1](https://github.com/user-attachments/assets/954c5ca3-ebf0-4bc4-8cf6-bc76fa19c6df)
 
 -----------
