@@ -69,9 +69,8 @@ OpenAI ใน @ChatGPT ตอนนี้เข้าใจเนื้อหา
 บทที่ 6 Logos สร้างโดย AI ของ Canva (หน้าที่ 121)   
 ![logos](https://github.com/user-attachments/assets/414647fe-d4fc-4366-a699-10e4eed65a8c)    
 
-บทที่ 6 หัวข้อ "รู้จักกับฟีเจอร์ Bulk Create" Canva มีเครื่องมือ AI ให้เลือกใช้หลายตัว (หน้าที่ 145)
-![BulkCreate](https://github.com/user-attachments/assets/12917e6b-a5b9-456e-bcd3-87aef987ae15)    
-
+บทที่ 6 หัวข้อ "รู้จักกับฟีเจอร์ Bulk Create" Canva มีเครื่องมือ AI ให้เลือกใช้หลายตัว (หน้าที่ 145)    
+ 
 ----
 
 
