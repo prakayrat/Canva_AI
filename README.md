@@ -10,6 +10,9 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
 ## ติดตาม พัฒนาการใหม่ ๆ ที่เพิ่งเกิดขึ้น ใน Canva (26-27 มิถุนายน 2568) ##
 [** คลิกที่นี่! Tech ใหม่ ๆ **](https://www.canva.com/whats-new)   
 
+** Say “Hi” to Canva AI **   
+[คลิกเพื่อดูวิดีโอ](https://www.canva.com/ai-assistant/)    
+
 ![Animation](https://github.com/user-attachments/assets/665bfb20-5173-4b30-b532-073769f034d5)    
 เปลี่ยนรูปภาพให้เป็นภาพที่สะกดทุกสายตาด้วยการค่อยๆ เฟดภาพอย่างนุ่มนวลและเผยให้เห็นภาพอย่างน่าตื่นตาตื่นใจ    
 [ลองใช้ animation นี้! ](https://www.canva.com/design/DAGrdmD04rM/tjOZT_rb9afqux47-ZPaHw/edit?ui=eyJBIjp7IkIiOnsiQiI6dHJ1ZX19LCJHIjp7IkIiOnRydWUsIlIiOnRydWUsIlEiOnsiQSI6eyJBPyI6IjEifX19fQ) 
