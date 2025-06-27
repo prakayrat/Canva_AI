@@ -7,7 +7,7 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
 
 ----------
 ----   
-## เพื่อติดตาม Canva ##
+## ติดตาม พัฒนาการใหม่ ๆ ที่เพิ่งเกิดขึ้น ใน Canva (26-27 มิถุนายน 2568) ##
 [** คลิกที่นี่! Tech ใหม่ ๆ **](https://www.canva.com/whats-new)   
 
 ![Animation](https://github.com/user-attachments/assets/665bfb20-5173-4b30-b532-073769f034d5)    
