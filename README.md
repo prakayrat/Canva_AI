@@ -7,7 +7,8 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
 
 ----------
 ----   
-[** คลิกที่นี่ ! เพื่อติดตาม Canva - Tech ใหม่ ๆ **](https://www.canva.com/whats-new)   
+## เพื่อติดตาม Canva ##
+[** คลิกที่นี่! Tech ใหม่ ๆ **](https://www.canva.com/whats-new)   
 
 ![Animation](https://github.com/user-attachments/assets/665bfb20-5173-4b30-b532-073769f034d5)    
 เปลี่ยนรูปภาพให้เป็นภาพที่สะกดทุกสายตาด้วยการค่อยๆ เฟดภาพอย่างนุ่มนวลและเผยให้เห็นภาพอย่างน่าตื่นตาตื่นใจ    
@@ -26,7 +27,7 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
 
 ----   
 
-## Design Assets
+## Design in Canva ##
 
        [**Edit on Canva**](https://www.canva.com/)
 ----------------    
