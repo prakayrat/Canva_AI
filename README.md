@@ -66,4 +66,7 @@ OpenAI ใน @ChatGPT ตอนนี้เข้าใจเนื้อหา
 
 -----------
 
+บทที่ 6 Logos สร้างโดย AI ของ Canva (หน้าที่ 121)   
+![logos](https://github.com/user-attachments/assets/414647fe-d4fc-4366-a699-10e4eed65a8c)    
+
 
