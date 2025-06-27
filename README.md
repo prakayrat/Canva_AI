@@ -22,9 +22,10 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
  
 ![DataLabels](https://github.com/user-attachments/assets/e2da3a1d-8c18-4702-ab37-b7db252b5a92)   
 ป้ายชื่อข้อมูลชาร์ตแท่ง: เพิ่มความชัดเจนให้กับชาร์ตของคุณด้วยป้ายกำกับได้ในคลิกเดียว   
-[ลองใช้ data labels นี้!](https://www.canva.com/design/DAGrdsMfJJ0/YeFtKGDjwDmT_QJk7yQImQ/edit)    
- 
-OpenAI ใน @ChatGPT ตอนนี้เข้าใจเนื้อหาของคุณใน Canva ได้แล้ว "สรุป สะท้อน วิเคราะห์ ทั้งหมดจากการแชท"
+[ลองใช้ data labels นี้!](https://www.canva.com/design/DAGrdsMfJJ0/YeFtKGDjwDmT_QJk7yQImQ/edit)      
+
+
+OpenAI ใน @ChatGPT ตอนนี้เข้าใจเนื้อหาของคุณใน Canva ได้แล้ว "สรุป สะท้อน วิเคราะห์ ทั้งหมดจากการแชท"    
 [คลิกที่นี่เพื่อดูวิดีโอ..](https://x.com/canva/status/1938398169693306944)
 
 ----   
