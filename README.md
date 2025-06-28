@@ -37,7 +37,7 @@ OpenAI ใน @ChatGPT ตอนนี้เข้าใจเนื้อหา
 
 ----   
 
-## Design in Canva ##
+## หนังสือก้าวข้ามทุกขีดจำกัดด้วย Canva พร้อม AI ##
 
        [**Edit on Canva**](https://www.canva.com/)
 ----------------    
