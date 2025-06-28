@@ -32,13 +32,8 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
 | บทที่ 5 | "สร้างแบรนด์บนแพลตฟอร์มโซเชียลมีเดียต่าง ๆ" (หน้าที่ 100) | ![1](https://github.com/user-attachments/assets/d6ebab9b-cd24-435a-bda9-258b038aa21b)|
 |||![2](https://github.com/user-attachments/assets/20a9c72c-ece8-41fb-8d70-7add4803ac22)|
 | บทที่ 5 | "วางแผนและออกแบบโพสต์ที่โดดเด่น" (หน้าที่ 104) | ![1](https://github.com/user-attachments/assets/954c5ca3-ebf0-4bc4-8cf6-bc76fa19c6df)|
-
------------
-
-บทที่ 6 Logos สร้างโดย AI ของ Canva (หน้าที่ 121)   
-![logos](https://github.com/user-attachments/assets/414647fe-d4fc-4366-a699-10e4eed65a8c)    
-
-บทที่ 6 หัวข้อ "รู้จักกับฟีเจอร์ Bulk Create" Canva มีเครื่องมือ AI ให้เลือกใช้หลายตัว (หน้าที่ 145)    
+| บทที่ 6 | "Logos" สร้างโดย AI ของ Canva (หน้าที่ 121) | ![logos](https://github.com/user-attachments/assets/414647fe-d4fc-4366-a699-10e4eed65a8c)|
+| บทที่ 6 | "รู้จักกับฟีเจอร์ Bulk Create" Canva มีเครื่องมือ AI ให้เลือกใช้หลายตัว (หน้าที่ 145) ||| 
  
 ----
 
