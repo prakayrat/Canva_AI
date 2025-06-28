@@ -10,9 +10,8 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
 ![CanvaAI-icon](https://github.com/user-attachments/assets/2b8990ba-19c7-4dd3-bcc4-0a760722db2a)
 [คลิกเพื่อดูวิดีโอ](https://www.canva.com/ai-assistant/)    
 
-----
 ----   
-## เปลี่ยนไอเดียให้เป็นชิ้นงานจริงด้วยพลังของ AI ใน Canva (Create AI-powered artifacts, 2025) ##
+## เปลี่ยนไอเดียให้เป็นชิ้นงานจริงด้วยพลังของ AI ใน Canva (Create AI-powered artifacts, 2025) ##    
 [** คลิกที่นี่! **](https://www.canva.com/whats-new)   
 
 ---
