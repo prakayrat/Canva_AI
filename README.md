@@ -24,11 +24,11 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
        [**Edit on Canva**](https://www.canva.com/)
 ----------------    
 
-| บทที่ | หัวข้อ | asset |
-| --- | --- | --- |
-|บทที่ 4 | หัวข้อ "ภาพโปรไฟล์ของคุณ" (หน้าที่ 76)|![1](https://github.com/user-attachments/assets/c13ddf29-190e-4405-a2aa-ac7862aeb73f)|
-|บทที่ 4 | หัวข้อ "แนวคิด Steal Like an Artist" (หน้าที่ 85)|![6](https://github.com/user-attachments/assets/5813d453-a6ba-4ec1-80a1-9782992ff79b)
-![5](https://github.com/user-attachments/assets/133eace6-1115-424b-af56-7a2517b0e4b2)|
+| บทที่ หัวข้อ (หน้าที่) | asset |
+| --- | --- |
+|บทที่ 4 "ภาพโปรไฟล์ของคุณ" (หน้าที่ 76)|![1](https://github.com/user-attachments/assets/c13ddf29-190e-4405-a2aa-ac7862aeb73f)|
+|บทที่ 4 "แนวคิด Steal Like an Artist" (หน้าที่ 85)|![6](https://github.com/user-attachments/assets/5813d453-a6ba-4ec1-80a1-9782992ff79b)|
+||![5](https://github.com/user-attachments/assets/133eace6-1115-424b-af56-7a2517b0e4b2)|
 
 -----------
 
