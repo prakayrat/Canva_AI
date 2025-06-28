@@ -12,8 +12,8 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
 
 ----
 ----   
-## ติดตาม พัฒนาการใหม่ ๆ ที่เพิ่งเกิดขึ้น ใน Canva (2568) ##
-[** คลิกที่นี่! Tech ใหม่ ๆ **](https://www.canva.com/whats-new)   
+## เปลี่ยนไอเดียให้เป็นชิ้นงานจริงด้วยพลังของ AI ใน Canva (Create AI-powered artifacts, 2025) ##
+[** คลิกที่นี่! **](https://www.canva.com/whats-new)   
 
 ---
 
