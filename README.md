@@ -16,9 +16,9 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
 
 ---
 
-:--![Animation](https://github.com/user-attachments/assets/665bfb20-5173-4b30-b532-073769f034d5)    
-:-:เปลี่ยนรูปภาพให้เป็นภาพที่สะกดทุกสายตาด้วยการค่อยๆ เฟดภาพอย่างนุ่มนวลและเผยให้เห็นภาพอย่างน่าตื่นตาตื่นใจ    
---:[ลองใช้ animation นี้! ](https://www.canva.com/design/DAGrdmD04rM/tjOZT_rb9afqux47-ZPaHw/edit?ui=eyJBIjp7IkIiOnsiQiI6dHJ1ZX19LCJHIjp7IkIiOnRydWUsIlIiOnRydWUsIlEiOnsiQSI6eyJBPyI6IjEifX19fQ) 
+: ![Animation](https://github.com/user-attachments/assets/665bfb20-5173-4b30-b532-073769f034d5)    :
+: เปลี่ยนรูปภาพให้เป็นภาพที่สะกดทุกสายตาด้วยการค่อยๆ เฟดภาพอย่างนุ่มนวลและเผยให้เห็นภาพอย่างน่าตื่นตาตื่นใจ    :
+: [ลองใช้ animation นี้! ](https://www.canva.com/design/DAGrdmD04rM/tjOZT_rb9afqux47-ZPaHw/edit?ui=eyJBIjp7IkIiOnsiQiI6dHJ1ZX19LCJHIjp7IkIiOnRydWUsIlIiOnRydWUsIlEiOnsiQSI6eyJBPyI6IjEifX19fQ) :
 
 ![Whiteboard](https://github.com/user-attachments/assets/5ab3b6c1-fbed-4a0b-9794-80cee96f4ab5)    
 เปลี่ยน Brainstorm ให้กลายเป็นแผนการทำงานได้ในพริบตา   
