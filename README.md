@@ -18,7 +18,7 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
 |![DataLabels](https://github.com/user-attachments/assets/e2da3a1d-8c18-4702-ab37-b7db252b5a92)|ป้ายชื่อข้อมูลชาร์ตแท่ง: เพิ่มความชัดเจนให้กับชาร์ตของคุณด้วยป้ายกำกับได้ในคลิกเดียว|[คลิกที่นี่เพื่อลองใช้ data labels!](https://www.canva.com/design/DAGrdsMfJJ0/YeFtKGDjwDmT_QJk7yQImQ/edit)|   
 |![OpenAI-ChatGPT](https://github.com/user-attachments/assets/43876208-de0f-452e-983a-c000388e9ca0)|OpenAI ใน @ChatGPT ตอนนี้เข้าใจเนื้อหาของคุณใน Canva ได้แล้ว "สรุป สะท้อน วิเคราะห์ ทั้งหมดจากการแชท"|[คลิกที่นี่เพื่อดูวิดีโอ..](https://x.com/canva/status/1938398169693306944)|
 |***  ![CanvaAI-icon](https://github.com/user-attachments/assets/2b8990ba-19c7-4dd3-bcc4-0a760722db2a)  *** |เนื้อหาเสริม เครื่องมือ AI ใน Canva (Canva AI)|[คลิกเพื่อดูวิดีโอ](https://www.canva.com/ai-assistant/)|
-|||![image](https://github.com/user-attachments/assets/47984e04-ae4b-4ceb-aa19-d778ec21ff8e)|
+
 
 
 
@@ -41,6 +41,7 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
 ||"Data visualization" (หน้าที่ 158) | ใช้ AI ช่วยเปลี่ยน raw data เป็นรูปภาพที่น่าสนใจ|
 ||"Music" (หน้าที่ 176) | เลือก AI ใน Canva สร้างเสียงเพลง และ sync กับวิดีโอโดยอัตโนมัติ|
 ||"Video" (หน้าที่ 180) | ใช้ AI ของ Canva สร้างวิดีโอ ตามที่คุณต้องการโดยอัตโนมัติ| 
+||![image](https://github.com/user-attachments/assets/47984e04-ae4b-4ceb-aa19-d778ec21ff8e)|
 
 ----
 
