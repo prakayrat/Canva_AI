@@ -29,7 +29,7 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
 
 | บทที่ | หัวข้อ (หน้าที่) | images, pictures, templates, pages และอื่น ๆ|
 | --- | --- | --- |
-|บทที่ 4| "profile" (หน้าที่ 76)|![1](https://github.com/user-attachments/assets/c13ddf29-190e-4405-a2aa-ac7862aeb73f)|
+|บทที่ 4| "profile" (หน้าที่ 76)|![3](https://github.com/user-attachments/assets/542c1f65-f0b1-40ee-bba4-72e01309d154)|
 || "Steal Like an Artist" (หน้าที่ 85)|![6](https://github.com/user-attachments/assets/5813d453-a6ba-4ec1-80a1-9782992ff79b)|
 |||![5](https://github.com/user-attachments/assets/133eace6-1115-424b-af56-7a2517b0e4b2)|
 |บทที่ 5| "วางแผนและออกแบบโพสต์ที่โดดเด่น" (หน้าที่ 104) | ![1](https://github.com/user-attachments/assets/954c5ca3-ebf0-4bc4-8cf6-bc76fa19c6df)|
