@@ -41,7 +41,7 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
 ||"Data visualization" (หน้าที่ 158) | ใช้ AI ช่วยเปลี่ยน raw data เป็นรูปภาพที่น่าสนใจ|
 ||"Music" (หน้าที่ 176) | เลือก AI ใน Canva สร้างเสียงเพลง และ sync กับวิดีโอโดยอัตโนมัติ|
 ||"Video" (หน้าที่ 180) | ใช้ AI ของ Canva สร้างวิดีโอ ตามที่คุณต้องการโดยอัตโนมัติ| 
-|![image](https://github.com/user-attachments/assets/47984e04-ae4b-4ceb-aa19-d778ec21ff8e)|
+||![image](https://github.com/user-attachments/assets/47984e04-ae4b-4ceb-aa19-d778ec21ff8e)|
 
 ----
 
