@@ -1,6 +1,6 @@
 # หนังสือก้าวข้ามทุกขีดจำกัดด้วย Canva พร้อม AI 
 eBook พร้อมจำหน่าย 24 มิถุนายน 2568     
-ขณะนี้มีจำหน่ายที่[mebmarket](https://www.mebmarket.com/ebook-376777-ก้าวข้ามทุกขีดจำกัด-Canva-พร้อม-AI)    
+ขณะนี้มีจำหน่ายที่ [mebmarket](https://www.mebmarket.com/ebook-376777-ก้าวข้ามทุกขีดจำกัด-Canva-พร้อม-AI) 
 และ [CHULA BOOK](https://www.chulabook.com/computer/227111)  
 
 ![1](https://github.com/user-attachments/assets/95fe8b63-000d-4bf7-b1a4-7d3c82ed5f89)    
