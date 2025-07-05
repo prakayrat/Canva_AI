@@ -41,7 +41,9 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
 ||"Data visualization" (หน้าที่ 158) | ใช้ AI ช่วยเปลี่ยน raw data เป็นรูปภาพที่น่าสนใจ|
 ||"Music" (หน้าที่ 176) | เลือก AI ใน Canva สร้างเสียงเพลง และ sync กับวิดีโอโดยอัตโนมัติ|
 ||"Video" (หน้าที่ 180) | ใช้ AI ของ Canva สร้างวิดีโอ ตามที่คุณต้องการโดยอัตโนมัติ| 
-|อื่น ๆ|![ChatGPT Image 28 มิ ย  2568 11_33_52](https://github.com/user-attachments/assets/358aaaa4-62ac-4afd-af9d-8e2508b8d9e8)|![ChatGPT Image 3 ก ค  2568 06_18_59](https://github.com/user-attachments/assets/c9794e06-ea32-41d5-9c40-d6b4c2b7ce68)|
+
+## AI
+|Text to images|![ChatGPT Image 28 มิ ย  2568 11_33_52](https://github.com/user-attachments/assets/358aaaa4-62ac-4afd-af9d-8e2508b8d9e8)|![ChatGPT Image 3 ก ค  2568 06_18_59](https://github.com/user-attachments/assets/c9794e06-ea32-41d5-9c40-d6b4c2b7ce68)|
 ||![ChatGPT Image 27 มิ ย  2568 09_52_42](https://github.com/user-attachments/assets/72167838-d06c-46d0-bdce-f27d462ca46c)|![ChatGPT Image 27 มิ ย  2568 20_37_59](https://github.com/user-attachments/assets/417736a4-53f8-4839-bfcd-8201a2e77d69)|
 ||![image](https://github.com/user-attachments/assets/47984e04-ae4b-4ceb-aa19-d778ec21ff8e)|![ChatGPT Image 5 ก ค  2568 18_30_49](https://github.com/user-attachments/assets/89875586-8e1d-45cd-8e43-044f749bd365)|
 
