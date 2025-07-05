@@ -33,7 +33,7 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
 || "Steal Like an Artist" (หน้าที่ 85)|![6](https://github.com/user-attachments/assets/5813d453-a6ba-4ec1-80a1-9782992ff79b)|
 |||![5](https://github.com/user-attachments/assets/133eace6-1115-424b-af56-7a2517b0e4b2)|
 |บทที่ 5| "วางแผนและออกแบบโพสต์ที่โดดเด่น" (หน้าที่ 104) | ![1](https://github.com/user-attachments/assets/954c5ca3-ebf0-4bc4-8cf6-bc76fa19c6df)|
-|บทที่ 6| "Logos" สร้างโดย AI ของ Canva (หน้าที่ 121) | ![logos](https://github.com/user-attachments/assets/414647fe-d4fc-4366-a699-10e4eed65a8c)|
+|บทที่ 6| "Logos" สร้างโดย AI ของ Canva (หน้าที่ 121) |![logo_TipSkirts](https://github.com/user-attachments/assets/449654d2-6abb-4c53-90d1-2e51eda93dd5)|
 || "Bulk Create" (หน้าที่ 145) | Canva มีเครื่องมือ AI ให้เลือกใช้หลายตัว|   
 |บทที่ 7| "Presentation" (หน้าที่ 153) | ใช้ฟีเจอร์ AI ของ Canva ช่วยสร้างงานนำเสนอ|
 ||"Data visualization" (หน้าที่ 158) | ใช้ AI ช่วยเปลี่ยน raw data เป็นรูปภาพที่น่าสนใจ|
