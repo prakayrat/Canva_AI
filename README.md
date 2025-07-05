@@ -32,9 +32,7 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
 |บทที่ 4| "profile" (หน้าที่ 76)|![1](https://github.com/user-attachments/assets/c13ddf29-190e-4405-a2aa-ac7862aeb73f)|
 || "Steal Like an Artist" (หน้าที่ 85)|![6](https://github.com/user-attachments/assets/5813d453-a6ba-4ec1-80a1-9782992ff79b)|
 |||![5](https://github.com/user-attachments/assets/133eace6-1115-424b-af56-7a2517b0e4b2)|
-|บทที่ 5| "สร้างแบรนด์บนแพลตฟอร์มโซเชียลมีเดีย" (หน้าที่ 100) | ![1](https://github.com/user-attachments/assets/d6ebab9b-cd24-435a-bda9-258b038aa21b)|
-|||![2](https://github.com/user-attachments/assets/20a9c72c-ece8-41fb-8d70-7add4803ac22)|
-|| "วางแผนและออกแบบโพสต์ที่โดดเด่น" (หน้าที่ 104) | ![1](https://github.com/user-attachments/assets/954c5ca3-ebf0-4bc4-8cf6-bc76fa19c6df)|
+|บทที่ 5| "วางแผนและออกแบบโพสต์ที่โดดเด่น" (หน้าที่ 104) | ![1](https://github.com/user-attachments/assets/954c5ca3-ebf0-4bc4-8cf6-bc76fa19c6df)|
 |บทที่ 6| "Logos" สร้างโดย AI ของ Canva (หน้าที่ 121) | ![logos](https://github.com/user-attachments/assets/414647fe-d4fc-4366-a699-10e4eed65a8c)|
 || "Bulk Create" (หน้าที่ 145) | Canva มีเครื่องมือ AI ให้เลือกใช้หลายตัว|   
 |บทที่ 7| "Presentation" (หน้าที่ 153) | ใช้ฟีเจอร์ AI ของ Canva ช่วยสร้างงานนำเสนอ|
