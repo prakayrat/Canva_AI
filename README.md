@@ -27,7 +27,7 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
        [**Edit on Canva**](https://www.canva.com/)
 ----------------    
 
-| บทที่ | หัวข้อ (หน้าที่) | images, pictures, templates, pages, รูปในหนังสือ และอื่น ๆ|
+| บทที่ | หัวข้อ (หน้าที่) | images, pictures, templates, pages และอื่น ๆ|
 | --- | --- | --- |
 |บทที่ 4| "profile" (หน้าที่ 76)|![1](https://github.com/user-attachments/assets/c13ddf29-190e-4405-a2aa-ac7862aeb73f)|
 || "Steal Like an Artist" (หน้าที่ 85)|![6](https://github.com/user-attachments/assets/5813d453-a6ba-4ec1-80a1-9782992ff79b)|
