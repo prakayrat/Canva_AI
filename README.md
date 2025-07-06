@@ -42,11 +42,11 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
 ||"Music" (หน้าที่ 176) | เลือก AI ใน Canva สร้างเสียงเพลง และ sync กับวิดีโอโดยอัตโนมัติ|
 ||"Video" (หน้าที่ 180) | ใช้ AI ของ Canva สร้างวิดีโอ ตามที่คุณต้องการโดยอัตโนมัติ| 
 
-## AI
+## เครื่องมือ AI ช่วยงานคุณในด้านต่าง ๆ
 | หัวข้อ | *** | *** |
 | --- | --- | --- |
 |โฆษณาสินค้า|![image](https://github.com/user-attachments/assets/47984e04-ae4b-4ceb-aa19-d778ec21ff8e)|![1-3](https://github.com/user-attachments/assets/2270c636-be9c-4242-95d1-f13cf34c6fe3)|
-|Sheet: คำนวณ & สรุป|![image](https://github.com/user-attachments/assets/f1e59439-38a9-4307-aae7-d220f18a87b8)|![image](https://github.com/user-attachments/assets/9be4f691-16f8-46c5-89d8-459868811fbb)|
+|Sheet:ข้อมูลเชิงลึก|![image](https://github.com/user-attachments/assets/f1e59439-38a9-4307-aae7-d220f18a87b8)|![image](https://github.com/user-attachments/assets/9be4f691-16f8-46c5-89d8-459868811fbb)|
 |Text-to-images|![ChatGPT Image 3 ก ค  2568 06_18_59](https://github.com/user-attachments/assets/c9794e06-ea32-41d5-9c40-d6b4c2b7ce68)|![photo_cartoon](https://github.com/user-attachments/assets/ea21cafa-f0f0-447c-893f-171605951a8d)|
 ||![ChatGPT Image 27 มิ ย  2568 09_52_42](https://github.com/user-attachments/assets/72167838-d06c-46d0-bdce-f27d462ca46c)|![ChatGPT Image 27 มิ ย  2568 20_37_59](https://github.com/user-attachments/assets/417736a4-53f8-4839-bfcd-8201a2e77d69)|
 
