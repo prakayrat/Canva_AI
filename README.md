@@ -53,7 +53,7 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
 |ความประทับใจ/ความสนใจ/ความหลัง|![ChatGPT Image 27 มิ ย  2568 09_52_42](https://github.com/user-attachments/assets/72167838-d06c-46d0-bdce-f27d462ca46c)|![ChatGPT Image 27 มิ ย  2568 20_37_59](https://github.com/user-attachments/assets/417736a4-53f8-4839-bfcd-8201a2e77d69)|
 |Canva AI|![image](https://github.com/user-attachments/assets/8ff24ff2-cbe0-4952-9fca-8cbb1ec8a9ee)|![image](https://github.com/user-attachments/assets/67a580d8-e30b-4069-a699-5bce2792e982)|
 
-|สายมู|Prompt|จุดเด่น|* ทดลอง! *|
+|สายมู|Prompt|จุดเด่น|ทดลอง!|
 | --- | --- | --- |--- |
 |ยันต์ AI กันภัยไซเบอร์|“Design a cyber-protection talisman for 2025 believers. A traditional Thai yantra fused with glowing electric circuits and floating runes in the shape of a protective firewall. Hung near laptops and phones, believed to repel digital misfortune, hackers, and negative online energy. Popular among remote workers and streamers.”|ผสมความเชื่อเก่ากับเทคโนโลยีใหม่ — เหมาะกับสายทำงานออนไลน์|![ChatGPT Image 6 ก ค  2568 11_33_47](https://github.com/user-attachments/assets/35814ec8-6504-4d4a-a842-e7ef216aefc7)|
 |พระเครื่อง NFT แห่งโชคลาภ|“Create a sacred digital amulet for 2025 called ‘Phra Luck Chain’. This amulet blends traditional Thai Buddha amulet forms with a sleek holographic NFT-style finish. It glows softly when held, displays a floating QR code that links to a daily fortune reading, and is believed to bring abundance, crypto luck, and online success.”|พระเครื่องแนว Web3 ผสมของจริงและดิจิทัล — กลุ่มวัยรุ่น-นักลงทุนสายมูจะหลงรัก|***
