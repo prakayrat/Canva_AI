@@ -55,7 +55,7 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
 
 |สายมู|Prompt|จุดเด่น|ทดลอง!|
 | --- | --- | --- |--- |
-|ยันต์ AI กันภัยไซเบอร์|“Design a cyber-protection talisman for 2025 believers. A traditional Thai yantra fused with glowing electric circuits and floating runes in the shape of a protective firewall. Hung near laptops and phones, believed to repel digital misfortune, hackers, and negative online energy. Popular among remote workers and streamers.”|ผสมความเชื่อเก่ากับเทคโนโลยีใหม่ — เหมาะกับคนงมงาย ไม่หาความรู้|![ChatGPT Image 6 ก ค  2568 11_33_47](https://github.com/user-attachments/assets/35814ec8-6504-4d4a-a842-e7ef216aefc7)|
+|ยันต์ AI กันภัยไซเบอร์|“Design a cyber-protection talisman for 2025 believers. A traditional Thai yantra fused with glowing electric circuits and floating runes in the shape of a protective firewall. Hung near laptops and phones, believed to repel digital misfortune, hackers, and negative online energy. Popular among remote workers and streamers.”|ผสมความเชื่อเก่ากับเทคโนโลยีใหม่ — เหมาะกับคนงมงาย มักง่าย ขี้เกียจ ไม่หาความรู้|![ChatGPT Image 6 ก ค  2568 11_33_47](https://github.com/user-attachments/assets/35814ec8-6504-4d4a-a842-e7ef216aefc7)|
 
 
 
