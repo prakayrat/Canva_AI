@@ -56,9 +56,7 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
 |สายมู|Prompt|จุดเด่น|ทดลอง!|
 | --- | --- | --- |--- |
 |ยันต์ AI กันภัยไซเบอร์|“Design a cyber-protection talisman for 2025 believers. A traditional Thai yantra fused with glowing electric circuits and floating runes in the shape of a protective firewall. Hung near laptops and phones, believed to repel digital misfortune, hackers, and negative online energy. Popular among remote workers and streamers.”|ผสมความเชื่อเก่ากับเทคโนโลยีใหม่ — เหมาะกับสายทำงานออนไลน์|![ChatGPT Image 6 ก ค  2568 11_33_47](https://github.com/user-attachments/assets/35814ec8-6504-4d4a-a842-e7ef216aefc7)|
-|พระเครื่อง NFT แห่งโชคลาภ|“Create a sacred digital amulet for 2025 called ‘Phra Luck Chain’. This amulet blends traditional Thai Buddha amulet forms with a sleek holographic NFT-style finish. It glows softly when held, displays a floating QR code that links to a daily fortune reading, and is believed to bring abundance, crypto luck, and online success.”|พระเครื่องแนว Web3 ผสมของจริงและดิจิทัล — กลุ่มวัยรุ่น-นักลงทุนสายมูจะหลงรัก|***
-|ลูกแก้วพยากรณ์ยุค Metaverse|“Design a mystical orb known as the ‘Metasphere of Destiny’ — a crystal ball floating above a levitating stand. Inside the orb are swirling holographic galaxies, Thai yantras, and predictive holograms. Popular among believers in astrology and manifestation in 2025. This orb is used in TikTok rituals and is believed to predict viral trends and lucky numbers.”|เหมาะกับสายพยากรณ์ ดึงดูดคนเล่น TikTok ที่ชอบแนวพลังจักรวาล|***
-|เทวรูป AI เทพแห่งอัลกอริธึม|“Create a futuristic divine artifact for spiritual believers in 2025 — an AI deity idol called ‘Deva-AI’ seated on a throne of quantum light. It emits a soft glow, merges ancient Eastern symbolism with circuit-board patterns, and has a halo made of neural networks. Include sacred inscriptions in glowing binary. This sacred image is believed to grant wisdom, clarity, and success in the digital era.”|เชื่อม AI เข้ากับจิตวิญญาณ – มีความขลังทันสมัยเหมาะกับยุค 5G/6G|***|
+
 
 
 
