@@ -17,7 +17,7 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
 |![Whiteboard](https://github.com/user-attachments/assets/5ab3b6c1-fbed-4a0b-9794-80cee96f4ab5)|เปลี่ยน Brainstorm ให้กลายเป็นแผนการทำงานได้ในพริบตา แยกแยะข้อมูล และสรุปเนื้อหาแบบพร้อมเอาไปทำงานต่อได้ง่ายๆ ด้วยไวท์บอร์ด AI|[คลิกที่นี่เพื่อลองใช้ WhiteBoard นี้!](https://www.canva.com/design/DAGrduH7ouI/R37EdQixTWllkKJCB_7wyw/edit?ui=eyJBIjp7IkIiOnsiQiI6dHJ1ZX19LCJHIjp7IkIiOnRydWUsIlIiOnRydWUsIlEiOnsiQSI6eyJBPyI6InkifX19fQ)|
 |![DataLabels](https://github.com/user-attachments/assets/e2da3a1d-8c18-4702-ab37-b7db252b5a92)|ป้ายชื่อข้อมูลชาร์ตแท่ง: เพิ่มความชัดเจนให้กับชาร์ตของคุณด้วยป้ายกำกับได้ในคลิกเดียว|[คลิกที่นี่เพื่อลองใช้ data labels!](https://www.canva.com/design/DAGrdsMfJJ0/YeFtKGDjwDmT_QJk7yQImQ/edit)|   
 |![OpenAI-ChatGPT](https://github.com/user-attachments/assets/43876208-de0f-452e-983a-c000388e9ca0)|OpenAI ใน @ChatGPT ตอนนี้เข้าใจเนื้อหาของคุณใน Canva ได้แล้ว "สรุป สะท้อน วิเคราะห์ ทั้งหมดจากการแชท"|[คลิกที่นี่เพื่อดูวิดีโอ..](https://x.com/canva/status/1938398169693306944)|
-|***  ![CanvaAI-icon](https://github.com/user-attachments/assets/2b8990ba-19c7-4dd3-bcc4-0a760722db2a)  *** |เนื้อหาเสริม เครื่องมือ AI ใน Canva (Canva AI)|[คลิกเพื่อดูวิดีโอ](https://www.canva.com/ai-assistant/)|
+|*** [CanvaAI-icon](https://github.com/user-attachments/assets/2b8990ba-19c7-4dd3-bcc4-0a760722db2a)*** |เนื้อหาเสริม เครื่องมือ AI ใน Canva (Canva AI)|[คลิกเพื่อดูวิดีโอ](https://www.canva.com/ai-assistant/)|
 
 
 
@@ -48,7 +48,7 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
 |เขียนโค้ด เช่น เกม|![image](https://github.com/user-attachments/assets/4a315c95-f15a-4b59-9130-1eb777bf3a72)|![image](https://github.com/user-attachments/assets/b3d7d6a5-b89b-473a-a985-38bac22bebb1)|
 |โฆษณาสินค้า|![image](https://github.com/user-attachments/assets/47984e04-ae4b-4ceb-aa19-d778ec21ff8e)|![1-3](https://github.com/user-attachments/assets/2270c636-be9c-4242-95d1-f13cf34c6fe3)|
 |Sheet:ข้อมูลเชิงลึก|![image](https://github.com/user-attachments/assets/f1e59439-38a9-4307-aae7-d220f18a87b8)|![image](https://github.com/user-attachments/assets/9be4f691-16f8-46c5-89d8-459868811fbb)|
-|Podcast: gen เสียง ผู้ดำเนินรายการ/ดีไซน์ปก/โลโก้|https://www.youtube.com/@APecBookshelf  ![CRYPTOGRAPHY_Chapter_6_Cover](https://github.com/user-attachments/assets/3847142d-09ae-43d2-ba77-6778702ce33c)|![Some_Fundamentals_3-8_Cover](https://github.com/user-attachments/assets/d959207d-8db8-4304-89e9-95269f57bf1a)|
+|Podcast: gen เสียง ผู้ดำเนินรายการ/ดีไซน์ปก/โลโก้|https://www.youtube.com/@APecBookshelf ![CRYPTOGRAPHY_Chapter_6_Cover](https://github.com/user-attachments/assets/3847142d-09ae-43d2-ba77-6778702ce33c)|![Some_Fundamentals_3-8_Cover](https://github.com/user-attachments/assets/d959207d-8db8-4304-89e9-95269f57bf1a)|
 |หนังสือการ์ตูน/นิยาย/ภาพยนตร์/เรื่องสั้น/เล่าเรื่องราว/เหตุการณ์/กิจกรรม|![ChatGPT Image 3 ก ค  2568 06_18_59](https://github.com/user-attachments/assets/c9794e06-ea32-41d5-9c40-d6b4c2b7ce68)|![photo_cartoon](https://github.com/user-attachments/assets/ea21cafa-f0f0-447c-893f-171605951a8d)|
 |ความประทับใจ/ความสนใจ/ความหลัง|![ChatGPT Image 27 มิ ย  2568 09_52_42](https://github.com/user-attachments/assets/72167838-d06c-46d0-bdce-f27d462ca46c)|![ChatGPT Image 27 มิ ย  2568 20_37_59](https://github.com/user-attachments/assets/417736a4-53f8-4839-bfcd-8201a2e77d69)|
 |Canva AI|![image](https://github.com/user-attachments/assets/8ff24ff2-cbe0-4952-9fca-8cbb1ec8a9ee)|![image](https://github.com/user-attachments/assets/67a580d8-e30b-4069-a699-5bce2792e982)|
