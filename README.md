@@ -45,7 +45,7 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
 
 ----  
     
-## AI เครื่องมือเพื่อเสริมและขยายความสามารถที่จำเป็นของงาน อาชีพ รายได้ ของคุณ
+## AI เครื่องมือเพื่อเสริมและขยายความสามารถที่จำเป็นของงาน อาชีพ รายได้ 
 | หัวข้อ | *** | *** |
 | --- | --- | --- |
 |เขียนโค้ด เช่น game, website, landing page, e-commerce และอื่น ๆ ที่คุณอาจคิดไม่ถึง!|![image](https://github.com/user-attachments/assets/4a315c95-f15a-4b59-9130-1eb777bf3a72)|![image](https://github.com/user-attachments/assets/b3d7d6a5-b89b-473a-a985-38bac22bebb1)|
