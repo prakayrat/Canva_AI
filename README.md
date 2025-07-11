@@ -38,9 +38,7 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
 |บทที่ 5| "วางแผนและออกแบบโพสต์ที่โดดเด่น" (หน้าที่ 104) | ![1](https://github.com/user-attachments/assets/954c5ca3-ebf0-4bc4-8cf6-bc76fa19c6df)|
 |บทที่ 6| "Logos" สร้างโดย AI ของ Canva (หน้าที่ 121) |![logo_TipSkirts](https://github.com/user-attachments/assets/8bbe421d-f479-4043-9d12-e03f3d2217d9)|
 |||<img width="443" height="520" alt="Logo2_ChatGPT Image 11 ก ค  2568 11_03_33" src="https://github.com/user-attachments/assets/1fcee1ea-34fe-402a-858c-22a2bbb533c1" />|
-
 || "Bulk Create" (หน้าที่ 145) | Canva มีเครื่องมือ AI ให้เลือกใช้หลายตัว|   
-
 |บทที่ 7| "Presentation" (หน้าที่ 153) | ใช้ฟีเจอร์ AI ของ Canva ช่วยสร้างงานนำเสนอ|
 ||"Data visualization" (หน้าที่ 158) | ใช้ AI ช่วยเปลี่ยน raw data เป็นรูปภาพที่น่าสนใจ|
 ||"Music" (หน้าที่ 176) | เลือก AI ใน Canva สร้างเสียงเพลง และ sync กับวิดีโอโดยอัตโนมัติ|
