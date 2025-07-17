@@ -59,7 +59,7 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
 |หนังสือการ์ตูน/นิยาย/ภาพยนตร์/เรื่องสั้น/เล่าเรื่องราว/เหตุการณ์/กิจกรรม|![ChatGPT Image 3 ก ค  2568 06_18_59](https://github.com/user-attachments/assets/c9794e06-ea32-41d5-9c40-d6b4c2b7ce68)|![photo_cartoon](https://github.com/user-attachments/assets/ea21cafa-f0f0-447c-893f-171605951a8d)|
 ||<img width="1536" height="1024" alt="ท่านั่งในรถ" src="https://github.com/user-attachments/assets/fe28aa61-3b04-4aee-93b4-3be38c98fb9a" />|![image](https://github.com/user-attachments/assets/67a580d8-e30b-4069-a699-5bce2792e982)|
 |ความประทับใจ/ความสนใจ/ความหลัง|![ChatGPT Image 27 มิ ย  2568 09_52_42](https://github.com/user-attachments/assets/72167838-d06c-46d0-bdce-f27d462ca46c)|![ChatGPT Image 27 มิ ย  2568 20_37_59](https://github.com/user-attachments/assets/417736a4-53f8-4839-bfcd-8201a2e77d69)|
-|Canva AI|![image](https://github.com/user-attachments/assets/8ff24ff2-cbe0-4952-9fca-8cbb1ec8a9ee)|
+|Canva AI|![image](https://github.com/user-attachments/assets/8ff24ff2-cbe0-4952-9fca-8cbb1ec8a9ee)|![image](https://github.com/user-attachments/assets/67a580d8-e30b-4069-a699-5bce2792e982)|
     
 |สายมู|Prompt|จุดเด่น|***|
 | --- | --- | --- |--- |
