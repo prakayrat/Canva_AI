@@ -57,13 +57,13 @@ eBook พร้อมจำหน่าย 24 มิถุนายน 2568
 |Sheet: ข้อมูลเชิงลึก|![image](https://github.com/user-attachments/assets/f1e59439-38a9-4307-aae7-d220f18a87b8)|![image](https://github.com/user-attachments/assets/9be4f691-16f8-46c5-89d8-459868811fbb)|
 |Podcast: gen เสียง ผู้ดำเนินรายการ/ดีไซน์ปก/โลโก้ เช่น https://www.youtube.com/@APecBookshelf|![CRYPTOGRAPHY_Chapter_6_Cover](https://github.com/user-attachments/assets/3847142d-09ae-43d2-ba77-6778702ce33c)|![Some_Fundamentals_3-8_Cover](https://github.com/user-attachments/assets/d959207d-8db8-4304-89e9-95269f57bf1a)|
 |หนังสือการ์ตูน/นิยาย/ภาพยนตร์/เรื่องสั้น/เล่าเรื่องราว/เหตุการณ์/กิจกรรม|![ChatGPT Image 3 ก ค  2568 06_18_59](https://github.com/user-attachments/assets/c9794e06-ea32-41d5-9c40-d6b4c2b7ce68)|...|
-||<img width="1536" height="1024" alt="ท่านั่งในรถ" src="https://github.com/user-attachments/assets/fe28aa61-3b04-4aee-93b4-3be38c98fb9a" />| |
+||<img width="1536" height="1024" alt="ท่านั่งในรถ" src="https://github.com/user-attachments/assets/fe28aa61-3b04-4aee-93b4-3be38c98fb9a" />| <img width="1024" height="1536" alt="ChatGPT Image 12 มิ ย  2568 09_41_14" src="https://github.com/user-attachments/assets/88b282f9-26c5-49ec-92e3-e59eaa6f8ccd" />|
 |ความประทับใจ/ความสนใจ/ความหลัง|![ChatGPT Image 27 มิ ย  2568 09_52_42](https://github.com/user-attachments/assets/72167838-d06c-46d0-bdce-f27d462ca46c)|![ChatGPT Image 27 มิ ย  2568 20_37_59](https://github.com/user-attachments/assets/417736a4-53f8-4839-bfcd-8201a2e77d69)|
 |Canva AI|![image](https://github.com/user-attachments/assets/8ff24ff2-cbe0-4952-9fca-8cbb1ec8a9ee)|![image](https://github.com/user-attachments/assets/67a580d8-e30b-4069-a699-5bce2792e982)|
     
 |สายมู|Prompt|จุดเด่น|***|
 | --- | --- | --- |--- |
-|ยันต์ AI กันภัยไซเบอร์|“Design a cyber-protection talisman for 2025 believers. A traditional Thai yantra fused with glowing electric circuits and floating runes in the shape of a protective firewall. Hung near laptops and phones, believed to repel digital misfortune, hackers, and negative online energy. Popular among remote workers and streamers.”|ผสมความเชื่อเก่ากับเทคโนโลยีใหม่ — เหมาะกับคนงมงาย มักง่าย ดักดาน ไม่มีเหตุผล|![ChatGPT Image 6 ก ค  2568 11_33_47](https://github.com/user-attachments/assets/35814ec8-6504-4d4a-a842-e7ef216aefc7)|
+|ยันต์ AI กันภัยไซเบอร์|“Design a cyber-protection talisman for 2025 believers. A traditional Thai yantra fused with glowing electric circuits and floating runes in the shape of a protective firewall. Hung near laptops and phones, believed to repel digital misfortune, hackers, and negative online energy. Popular among remote workers and streamers.”|ผสมความเชื่อเก่ากับเทคโนโลยีใหม่ — เหมาะกับคนงมงาย มักง่าย ไม่มีเหตุผล|![ChatGPT Image 6 ก ค  2568 11_33_47](https://github.com/user-attachments/assets/35814ec8-6504-4d4a-a842-e7ef216aefc7)|
 
 
 
