@@ -33,6 +33,8 @@ eBook พร้อมจำหน่าย
 |![DataLabels](https://github.com/user-attachments/assets/e2da3a1d-8c18-4702-ab37-b7db252b5a92)|ป้ายชื่อข้อมูลชาร์ตแท่ง: เพิ่มความชัดเจนให้กับชาร์ตของคุณด้วยป้ายกำกับได้ในคลิกเดียว|[คลิกที่นี่เพื่อลองใช้ data labels!](https://www.canva.com/design/DAGrdsMfJJ0/YeFtKGDjwDmT_QJk7yQImQ/edit)|   
 |![OpenAI-ChatGPT](https://github.com/user-attachments/assets/43876208-de0f-452e-983a-c000388e9ca0)|OpenAI ใน @ChatGPT ตอนนี้เข้าใจเนื้อหาของคุณใน Canva ได้แล้ว "สรุป สะท้อน วิเคราะห์ ทั้งหมดจากการแชท"|[คลิกที่นี่เพื่อดูวิดีโอ..](https://x.com/canva/status/1938398169693306944)|
 |*** [CanvaAI-icon](https://github.com/user-attachments/assets/2b8990ba-19c7-4dd3-bcc4-0a760722db2a)*** |เนื้อหาเสริม เครื่องมือ AI ใน Canva (Canva AI)|[คลิกเพื่อดูวิดีโอ](https://www.canva.com/ai-assistant/)|
+|<img width="739" height="373" alt="image" src="https://github.com/user-attachments/assets/e7e5af3b-4be8-4098-b149-ca3c192df370" />||[คลิกดูรายละเอียด](https://www.facebook.com/photo/?fbid=1316594450505908&set=pcb.1316594550505898)|
+
 
 
 
