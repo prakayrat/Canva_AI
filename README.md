@@ -24,6 +24,7 @@ eBook พร้อมจำหน่าย
 ---
 | อะไรมาใหม่! | คำบรรยาย/อธิบาย | รายละเอียด |
 | --- | --- | --- |
+|<img width="933" height="927" alt="image" src="https://github.com/user-attachments/assets/ebb0888c-e17c-4dc7-8d27-3b5b6d89cb6a" />|การแปลงร่างของแอปเปิล!🍎✨|<img width="709" height="651" alt="image" src="https://github.com/user-attachments/assets/2cb0b2e8-4d35-4ef6-8f3d-245d45ae6f95" />|
 |<img width="1080" height="1350" alt="image" src="https://github.com/user-attachments/assets/2549bc51-f892-4040-872a-a2d8043f7346" />|When people say “think big”, is this what they mean? |[Photos You'll need!](https://www.facebook.com/photo/?fbid=1289906796508007&set=pcb.1289906859841334)|
 |<img width="713" height="444" alt="image" src="https://github.com/user-attachments/assets/42a98b99-6d50-4c07-95ca-7e2106cfe4f2" />| Every Canva print = a tree planted. Thank YOU for helping us restore land and support communities across 13 countries.|[🌱 10 million trees 🌍](https://x.com/canva/status/1945048528113340474)
 |![image](https://github.com/user-attachments/assets/e18b568b-2f01-4789-a438-aae7b16e4b40)|ข้อมูลเพียงอย่างเดียวไม่สามารถขับเคลื่อนผู้คนได้ เรื่องราวที่มองเห็นได้ต่างหากที่ทำได้|[Beyond the numbers](https://www.canva.com/data-storytelling-report)|
