@@ -53,7 +53,7 @@ eBook พร้อมจำหน่าย
 | หัวข้อ | *** | *** |
 | --- | --- | --- |
 |เขียนโค้ด เช่น game, website, e-commerce และอื่น ๆ ที่คุณอาจคาดไม่ถึง!|![image](https://github.com/user-attachments/assets/4a315c95-f15a-4b59-9130-1eb777bf3a72)|![image](https://github.com/user-attachments/assets/b3d7d6a5-b89b-473a-a985-38bac22bebb1)|
-|เกมที่สร้างจาก Canva AI|เกมจับสี|<img width="1891" height="881" alt="image" src="https://github.com/user-attachments/assets/d66f4bd4-c371-4f03-be30-af3794eac108" />|
+|เกมที่สร้างจาก Canva AI|<img width="1891" height="881" alt="image" src="https://github.com/user-attachments/assets/d66f4bd4-c371-4f03-be30-af3794eac108" />|<img width="453" height="781" alt="image" src="https://github.com/user-attachments/assets/03c678f5-663a-4112-9fed-c092e4a33dbb" />|
 |โฆษณาสินค้า|![image](https://github.com/user-attachments/assets/47984e04-ae4b-4ceb-aa19-d778ec21ff8e)|![1-3](https://github.com/user-attachments/assets/2270c636-be9c-4242-95d1-f13cf34c6fe3)|
 |Documents/Report/Presentation|Summary|infographic, Slide|
 |Sheet: ข้อมูลเชิงลึก|![image](https://github.com/user-attachments/assets/f1e59439-38a9-4307-aae7-d220f18a87b8)|![image](https://github.com/user-attachments/assets/9be4f691-16f8-46c5-89d8-459868811fbb)|
