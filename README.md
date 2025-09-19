@@ -41,6 +41,7 @@ Canva AI เป็นผู้ช่วยสร้างสรรค์ที�
 ---
 | อะไรมาใหม่! | คำบรรยาย/อธิบาย | รายละเอียด |
 | --- | --- | --- |
+|Canva World Tour ตลอดเดือนตุลาคม 2568|<img width="1080" height="1350" alt="image" src="https://github.com/user-attachments/assets/3572a91d-e5ac-4762-b453-611d2f837d7b" />|canva.com/canva-world-tour|
 |<img width="933" height="927" alt="image" src="https://github.com/user-attachments/assets/ebb0888c-e17c-4dc7-8d27-3b5b6d89cb6a" />|การแปลงร่างของแอปเปิล!🍎✨|<img width="746" height="738" alt="image" src="https://github.com/user-attachments/assets/35b3e859-4d35-46a2-9f0b-ce8d782d2e41" />|
 |<img width="1080" height="1350" alt="image" src="https://github.com/user-attachments/assets/2549bc51-f892-4040-872a-a2d8043f7346" />|When people say “think big”, is this what they mean? |[Photos You'll need!](https://www.facebook.com/photo/?fbid=1289906796508007&set=pcb.1289906859841334)|
 |<img width="713" height="444" alt="image" src="https://github.com/user-attachments/assets/42a98b99-6d50-4c07-95ca-7e2106cfe4f2" />| Every Canva print = a tree planted. Thank YOU for helping us restore land and support communities across 13 countries.|[🌱 10 million trees 🌍](https://x.com/canva/status/1945048528113340474)
