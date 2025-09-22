@@ -84,7 +84,7 @@ Canva AI เป็นผู้ช่วยสร้างสรรค์ที�
 ||<img width="1024" height="1536" alt="ChatGPT Image 12 มิ ย  2568 09_41_14" src="https://github.com/user-attachments/assets/88b282f9-26c5-49ec-92e3-e59eaa6f8ccd" />|<img width="1024" height="1536" alt="ChatGPT Image 5 ก ค  2568 18_30_49" src="https://github.com/user-attachments/assets/c65373b8-7f32-4aea-ba87-2f1bcc98349b" />|
 |ความประทับใจ/ความสนใจ/ความหลัง|![ChatGPT Image 27 มิ ย  2568 09_52_42](https://github.com/user-attachments/assets/72167838-d06c-46d0-bdce-f27d462ca46c)|![ChatGPT Image 27 มิ ย  2568 20_37_59](https://github.com/user-attachments/assets/417736a4-53f8-4839-bfcd-8201a2e77d69)|
 |Canva AI|![image](https://github.com/user-attachments/assets/8ff24ff2-cbe0-4952-9fca-8cbb1ec8a9ee)|![image](https://github.com/user-attachments/assets/67a580d8-e30b-4069-a699-5bce2792e982)|
-|เปลี่ยนภาพนิ่งเป็น Video|<img width="896" height="1184" alt="1757209773" src="https://github.com/user-attachments/assets/a9f856cf-1a9a-4dbf-9c3d-bff3bf620ad8">|![dance](https://github.com/user-attachments/assets/8d3cd056-b04d-44f2-b11c-1b17b48113d0)|
+|เปลี่ยนภาพนิ่งเป็น Video หรือภาพเคลื่อนไหว |<img width="896" height="1184" alt="1757209773" src="https://github.com/user-attachments/assets/a9f856cf-1a9a-4dbf-9c3d-bff3bf620ad8">|![dance](https://github.com/user-attachments/assets/8d3cd056-b04d-44f2-b11c-1b17b48113d0)|
 
 
 
