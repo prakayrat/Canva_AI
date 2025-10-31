@@ -41,6 +41,7 @@ Canva AI เป็นผู้ช่วยสร้างสรรค์ที�
 ---
 | อะไรมาใหม่! | คำบรรยาย/อธิบาย | รายละเอียด |
 | --- | --- | --- |
+|<img width="781" height="727" alt="image" src="https://github.com/user-attachments/assets/c29eb852-a7e1-42a9-b706-1d14c15a3c13" />|Canva Keynote|https://www.facebook.com/reel/1443964420013070|
 |<img width="398" height="399" alt="image" src="https://github.com/user-attachments/assets/044c2d13-adfa-4954-ba51-e630a0d25188" />|Introducing Canva Video 2.0|https://www.youtube.com/watch?v=2ykZ24i8KeI|
 |<img width="472" height="458" alt="image" src="https://github.com/user-attachments/assets/cd296368-5186-4651-b39b-bebae9acfe8e" />|สร้างการออกแบบ Canva ได้ทันทีใน ChatGPT|https://www.facebook.com/reel/1851672192421517|
 |<img width="756" height="656" alt="image" src="https://github.com/user-attachments/assets/24cf2edb-b0fa-4661-815e-02612c22038d" />|Canva World Tour ตลอดเดือนตุลาคม 2568|canva.com/canva-world-tour|
